@@ -18,6 +18,10 @@ Atualmente busco minha primeira oportunidade profissional diretamente na área d
 
 ## Tecnologias
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,prisma,tailwind,git,github,docker,vercel" />
+</p>
+
 **Frontend**
 
 HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
