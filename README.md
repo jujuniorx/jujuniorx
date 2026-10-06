@@ -4,11 +4,11 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web, automação de processos e construção de produtos SaaS.
 
-Tenho experiência prática com React, TypeScript, Node.js, PostgreSQL e APIs REST, além de utilizar ferramentas de IA como Claude Code e ChatGPT no desenvolvimento.
+Tenho experiência prática com React, TypeScript, Node.js, PostgreSQL e APIs REST. Também utilizo ferramentas de IA, como Claude Code e ChatGPT, como parte do meu processo de desenvolvimento.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 **Frontend**
 
@@ -28,7 +28,7 @@ Claude · Claude Code · ChatGPT · OpenAI APIs
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
 ### [MOVA](https://mova.tec.br)
 
@@ -36,9 +36,7 @@ SaaS de gestão para pequenos negócios, desenvolvido para centralizar clientes,
 
 **Stack:** React · TypeScript · Node.js · Express · Prisma · PostgreSQL · IA
 
-🌐 [mova.tec.br](https://mova.tec.br)
-
----
+[Visitar o projeto](https://mova.tec.br)
 
 ### Controle de Trilhos
 
@@ -46,13 +44,9 @@ Sistema desenvolvido para digitalizar e automatizar processos de controle de tri
 
 **Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Tailwind CSS · PWA
 
----
-
 ### Tec-Rail
 
 Website institucional desenvolvido para uma empresa do setor ferroviário, com foco em apresentação da empresa, responsividade, animações e SEO.
-
----
 
 ### Limp Service
 
@@ -60,16 +54,13 @@ Projeto acadêmico desenvolvido para um cliente real, com foco em orçamento de 
 
 ---
 
-## 📚 Atualmente
+## Formação
 
-- 🎓 Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvimento Full Stack
-- 🤖 Desenvolvimento utilizando IA
-- 🚀 Construção de produtos SaaS
-- 🔧 Automação de processos
+**Análise e Desenvolvimento de Sistemas**  
+UNISAGRADO — Bauru, SP
 
 ---
 
-## 📫 Contato
+## Contato
 
 [LinkedIn](https://www.linkedin.com/in/jurandir-raymundo-junior-979595249/) · [GitHub](https://github.com/jujuniorx)
