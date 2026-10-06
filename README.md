@@ -40,7 +40,9 @@ Claude · Claude Code · ChatGPT
 
 ### MOVA
 
-SaaS de gestão para pequenos negócios, desenvolvido para centralizar clientes, produtos, estoque, orçamentos, vendas, CRM e automações.
+Meu principal projeto pessoal, um SaaS de gestão para pequenos negócios, desenvolvido para centralizar clientes, produtos, estoque, orçamentos, vendas, CRM e automações.
+
+O projeto ainda está em desenvolvimento e vem sendo utilizado como principal ambiente para aplicar e aprofundar conhecimentos de frontend, backend, banco de dados, integrações e desenvolvimento com IA.
 
 **Stack:** React · TypeScript · Node.js · Express · Prisma · PostgreSQL · IA
 
@@ -50,7 +52,9 @@ SaaS de gestão para pequenos negócios, desenvolvido para centralizar clientes,
 
 ### Controle de Trilhos
 
-Sistema desenvolvido para digitalizar e automatizar processos de controle de trilhos, com funcionamento offline, histórico, administração e exportação de dados.
+Sistema desenvolvido para digitalizar e automatizar processos de controle de trilhos.
+
+O projeto ainda está em desenvolvimento e tem como objetivo transformar processos manuais em uma solução digital, incluindo controle de dados, histórico, administração, funcionamento offline e exportação.
 
 **Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Tailwind CSS · PWA
 
@@ -59,6 +63,8 @@ Sistema desenvolvido para digitalizar e automatizar processos de controle de tri
 ### Tec-Rail
 
 Website institucional desenvolvido para uma empresa do setor ferroviário, com foco em apresentação da empresa, responsividade, animações e SEO.
+
+[Visitar o projeto](https://tec-rail.com.br)
 
 ---
 
