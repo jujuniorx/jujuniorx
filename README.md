@@ -64,7 +64,7 @@ Website institucional desenvolvido para uma empresa do setor ferroviário, com f
 
 ### Limp Service
 
-Projeto acadêmico desenvolvido para um cliente real, com foco em orçamento de serviços e digitalização do atendimento.
+Projeto acadêmico desenvolvido em conjunto com o grupo da faculdade, atualmente em desenvolvimento, com foco na criação de uma solução para orçamento de serviços e digitalização do atendimento.
 
 ---
 
